@@ -4,4 +4,9 @@ Carrera: Tecnologia de la informacion
 Marteria: Dessarrollo de sistema informatico
 paralelo: B 
 Edad:21
-Pais: Ecuador
+Pais:Ecuador
+Ciudad:Portoviejo
+Parroquia:Picoaza
+Hermanos: 4
+
+
