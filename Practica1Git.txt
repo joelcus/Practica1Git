@@ -8,5 +8,4 @@ Pais:Ecuador
 Ciudad:Portoviejo
 Parroquia:Picoaza
 Hermanos: 4
-
-
+Profesor: Elvis Moreira
